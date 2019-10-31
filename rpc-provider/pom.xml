@@ -48,11 +48,6 @@
         </dependency>
 
         <dependency>
-            <groupId>com.caucho</groupId>
-            <artifactId>hessian</artifactId>
-        </dependency>
-
-        <dependency>
             <groupId>com.rwx.rpc</groupId>
             <artifactId>rpc-api</artifactId>
             <version>1.0-SNAPSHOT</version>
