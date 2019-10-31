@@ -18,7 +18,7 @@ import java.net.MalformedURLException;
 @RequestMapping("/api")
 public class HelloController {
 
-	private String uri = "http://127.0.0.1:18888/rpc-provider/helloService";
+	private String uri = "http://127.0.0.1:18888/helloService";
 
 	@PostMapping("/hello")
 	public ResponseEntity<String> remoteApi() {
