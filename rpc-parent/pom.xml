@@ -15,7 +15,7 @@
         <lombok.vesion>1.18.10</lombok.vesion>
         <hessian.version>4.0.62</hessian.version>
         <fastjson.version>1.2.62</fastjson.version>
-        <spring.boot.version>2.2.0.RELEASE</spring.boot.version>
+        <spring.boot.version>2.5.12</spring.boot.version>
     </properties>
 
 
